@@ -1,2 +1,3 @@
 # Assignments_Day9
-Assignments_Day8
+
+-not much today, just playing around with graphics py
